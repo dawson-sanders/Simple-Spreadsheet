@@ -1,4 +1,4 @@
-This was a class project where the goal was to make a very simple menu-based spreadsheet program to get more experienced using functions and 2D arrays.  
+This was a class project in Programming Foundations 1 where the goal was to make a very simple menu-based spreadsheet program to get more experienced using functions and 2D arrays.  
 
 PURPOSE: 
 - Simulate a simple spreadsheet application program that simulates applications such as Excel, Google Sheets, etc. (This program has a command line interface)
